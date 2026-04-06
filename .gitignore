@@ -22,6 +22,7 @@ override.tf.json
 terraform.rc
 
 # Editor / OS
-.vscode/
 .idea/
 .DS_Store
+config.bat
+node_modules
